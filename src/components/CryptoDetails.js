@@ -54,7 +54,7 @@ const CryptoDetails = () => {
       onClick={close}
     >
       <div
-        className="w-[65%] h-[75%] bg-gray-300 bg-opacity-75 rounded-lg text-white relative"
+        className="w-[65%] h-[65%] bg-gray-300 bg-opacity-75 rounded-lg text-white relative"
         onClick={(e) => e.stopPropagation()}
       >
         {data ? (
@@ -335,7 +335,7 @@ const CryptoDetails = () => {
                   {data.market_cap_rank}{" "}
                 </h3>
 
-                <h3 className="text-white py-1">
+                {/* <h3 className="text-white py-1">
                   <span className="text-gray-100 capitalize mr-1">
                     coinGecko rank:{" "}
                   </span>{" "}
@@ -347,7 +347,7 @@ const CryptoDetails = () => {
                     coinGecko score:{" "}
                   </span>{" "}
                   {data.coingecko_score}{" "}
-                </h3>
+                </h3> */}
               </div>
             </div>
 
