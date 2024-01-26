@@ -1,0 +1,5 @@
+![Screenshot from 2024-01-27 00-53-36](https://github.com/Sahilz9/CryptoX/assets/103746983/0feabe52-2d1c-4821-be09-e81d6d5ca605)
+![Screenshot from 2024-01-27 00-53-41](https://github.com/Sahilz9/CryptoX/assets/103746983/836defcc-c857-4021-9aee-a633822c2e26)
+![Screenshot from 2024-01-27 00-54-08](https://github.com/Sahilz9/CryptoX/assets/103746983/3883e0e5-ef5f-4a25-8f52-ccf6993680d8)
+![Screenshot from 2024-01-27 00-53-52](https://github.com/Sahilz9/CryptoX/assets/103746983/7093b9cb-e9af-419c-8205-ae06e9be77ab)
+![Screenshot from 2024-01-27 00-58-18](https://github.com/Sahilz9/CryptoX/assets/103746983/84862d8d-bfea-4f39-a806-e3c7c78419a6)
